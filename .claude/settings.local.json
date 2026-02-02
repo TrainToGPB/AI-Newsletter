@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv venv:*)",
+      "Bash(uv pip install:*)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(playwright install:*)",
+      "Bash(python:*)",
+      "Bash(/Users/Se-Hyung/Desktop/workspace/AI-Newsletter/.venv/bin/python:*)",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(tree:*)",
+      "Bash(curl:*)",
+      "Skill(oh-my-claudecode:hud)",
+      "Bash(chmod:*)",
+      "Bash(node -e:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
